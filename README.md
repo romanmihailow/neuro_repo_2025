@@ -23,4 +23,7 @@ git pull
 
 изменения в main
 
+изменение develop на Github online
+
+
 изменения task 4 ветка от develop +1
