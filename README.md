@@ -24,3 +24,5 @@ git pull
 изменения в main
 
 изменение develop на Github online
+
+изменение new_local_develop +1
