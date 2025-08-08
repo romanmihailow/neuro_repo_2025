@@ -22,3 +22,5 @@ git pull
 изменения в task3 +1 +1
 
 изменения в main
+
+изменение develop на Github online
