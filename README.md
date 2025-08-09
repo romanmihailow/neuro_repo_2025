@@ -24,3 +24,5 @@ git pull
 изменения в main
 
 изменение develop на Github online
+
+task12 issue closes #12
