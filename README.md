@@ -26,3 +26,4 @@ git pull
 изменение develop на Github online
 
 task12 issue closes #12
+task11 issue closes #11 Создать правила для одобрения слияния в ветку develop
