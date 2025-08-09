@@ -27,3 +27,5 @@ git pull
 
 task12 issue closes #12
 task11 issue closes #11 Создать правила для одобрения слияния в ветку develop
+task10 issue. Closes #10 Создать правила для запрета слияний ветки main
+
