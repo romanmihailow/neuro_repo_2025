@@ -30,6 +30,8 @@ task11 issue closes #11 Создать правила для одобрения 
 task10 issue. Closes #10 Создать правила для запрета слияний ветки main
 task9 issue. Closes #9 Добавить правило для блокировки ветки main
 8-создать-страницы-wiki issue. Closes #8 Создать страницы Wiki
+task7 issue. Closes #7 Создать несколько Issues
+
 
 
 
