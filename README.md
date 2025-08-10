@@ -32,7 +32,7 @@ task9 issue. Closes #9 Добавить правило для блокировк
 8-создать-страницы-wiki issue. Closes #8 Создать страницы Wiki
 task7 issue. Closes #7 Создать несколько Issues
 
-
+task19. Closes #19 fix bag
 
 
 
